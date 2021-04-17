@@ -1,0 +1,7 @@
+Cosas para hacer:
+01/04/2021
+- menu inicio. On hover no se resalta. Si está modo responsive está en negro. Cambiar.
+- blog, hacer plantilla para uranga.
+- flechas en tecnicas.
+- foto de fondo en contacto
+- on media, mirar los diferentes parrafos.
