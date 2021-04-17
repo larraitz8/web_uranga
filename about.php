@@ -17,8 +17,8 @@
                 <a class="btn btn-dark btn-social mx-2" href="twitter.com/#!/nereauranga14"><i class="fab fa-twitter"></i></a>
                 <a class="btn btn-dark btn-social mx-2" href="instagram.com/nereaurangafisioterapeuta/?hl=es"><i class="fab fa-instagram"></i></a>
                 <a class="btn btn-dark btn-social mx-2" href="linkedin.com/in/nerea-uranga-otegi-130828144/"><i class="fab fa-linkedin-in"></i></a>
-                <a class="btn btn-dark btn-social mx-2" href="blog.html"><i class="fas fa-blog"></i></a>
-                <a class="btn btn-dark btn-social mx-2" href="blog.html"><i class="fab fa-youtube"></i></a>
+               <!-- <a class="btn btn-dark btn-social mx-2" href="blog.html"><i class="fas fa-blog"></i></a>-->
+               <!-- <a class="btn btn-dark btn-social mx-2" href=""><i class="fab fa-youtube"></i></a>-->
             </div>
         </div>
     </div>

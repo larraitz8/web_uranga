@@ -31,7 +31,7 @@
             </div>
             <div class="col-md-6 contacto" style="text-align: justify;">
 
-             <p> Llámame, si no te contesto, escríbeme un correo o un whatsapp y te contestaré lo antes posible. Explícame que necesitas y tu disponibilidad.</p>
+                <p> Llámame, si no te contesto, escríbeme un correo o un WhatsApp y te contestaré lo antes posible. Explícame qué necesitas y tu disponibilidad.</p>
              <p> Deitu diezadazu, erantzuten ez badizut, bidali posta elektronikoa edo whatsapp-a eta lehen bailehen erantzungo dizut. Esan diezadazu zer behar duzun eta noiz zauden libre. </p>
          </div>
      </div>
