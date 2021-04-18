@@ -6292,7 +6292,7 @@ button.bg-dark:focus {
 }
 
 .d-none {
-  display: none !important;
+  /*display: none !important;*/
 }
 
 .d-inline {
@@ -10513,4 +10513,17 @@ section#contact form#contactForm :-ms-input-placeholder {
   text-align: center;
   margin-top: 50px;
   padding-left: 40px; 
+}
+@media (max-width: 812px) {
+  .carousel-caption h5 {
+    font-size: 1rem;
+  }
+  .carousel-caption p {
+    font-size: small;
+    line-height: 1;
+    margin-bottom: 0px;
+  }
+  .contacto {
+    padding-left: 10px;
+  }
 }
