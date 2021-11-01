@@ -30,8 +30,8 @@
                 </div>
             </div>
             <div class="col-md-6 contacto" style="text-align: justify;">
-                <p> Llámame, si no te contesto, escríbeme un correo o un WhatsApp y te contestaré lo antes posible. Explícame qué necesitas y tu disponibilidad.</p>
-                <p> Deitu diezadazu, erantzuten ez badizut, bidali posta elektronikoa edo whatsapp-a eta lehen bailehen erantzungo dizut. Esan diezadazu zer behar duzun eta noiz zauden libre. </p>
+                <p> Llámame, mándame un correo o un WhatsApp (630429251), y hablamos. Cuéntame lo que te pasa y concretamos una cita.</p>
+                <p>  Deitu, idatzi korreo bat edo bidali diezadazu WhatsApp (630429251) bat eta hitzegingo dugu. Kontatu diezadazu zer duzun eta zita bat zehaztuko dugu. </p>
          </div>
      </div>
      <div class="text-center">

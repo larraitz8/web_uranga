@@ -11,9 +11,10 @@
     <div class="row justify-content-center">
             <div class="col-lg-auto">
             <div class="team-member">
-                <img class="mx-auto rounded-circle" src="assets/img/uranga.jpg" alt="" />
+                <img class="mx-auto rounded-circle" src="assets/img/fotoPerfil.jpeg" alt="" />
                 <h4>Nerea Uranga Otegi</h4>
                 <p class="text-muted">Fisioterapeuta</p>
+                <p>Soy fisioterapeuta graduada en enero del 2014 con experiencia en el ámbito de la fisioterapia deportiva por los 8 años en el Bera Bera Eskubaloia. Formación en fisioterapia deportiva, punción seca, neuromodulación, dolor y movimiento, ecografía. También me gusta formarme de manera autodidacta leyendo libros sobre cualquier ámbito. </p>
                 <a class="btn btn-dark btn-social mx-2" href="twitter.com/#!/nereauranga14"><i class="fab fa-twitter"></i></a>
                 <a class="btn btn-dark btn-social mx-2" href="instagram.com/nereaurangafisioterapeuta/?hl=es"><i class="fab fa-instagram"></i></a>
                 <a class="btn btn-dark btn-social mx-2" href="linkedin.com/in/nerea-uranga-otegi-130828144/"><i class="fab fa-linkedin-in"></i></a>
